@@ -244,13 +244,13 @@
 /* Send Message */
     .scrollableContainer-2NUZem {
         background-color: var(--color2);
-        border-radius: 0px;
+        border-radius: 6px;
     }
     .channelTextArea-rNsIhG {
         width: auto;
         padding-right: 10px;
-        background-color: var(--color2);
-        border-radius: 0px;
+        background-color: rgba(0, 100, 230, 0,9);
+        border-radius: 6px;
     }
     /* Emoji Picker */
         .contentWrapper-SvZHNd, .inspector-S2gM3e {
