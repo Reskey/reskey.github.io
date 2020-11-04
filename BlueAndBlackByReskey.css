@@ -378,7 +378,7 @@
             border-bottom: 2px solid var(--accent-color);
         }
         .sidebar-2K8pFh {
-            border-radius: 0px !important;
+            border-radius: 4px !important;
         }
         .unread-1xRYoj {
             background-color: rgba(139, 139, 139, 0.2);
@@ -399,7 +399,7 @@
         }
     /* Server List */
         .wrapper-25eVIn {
-            border-radius: 0px;
+            border-radius: 3px;
         }
         .scroller-2TZvBN {
             background-color: var(--background-color) !important;
@@ -456,7 +456,7 @@
         }
         .userPopout-3XzG_A {
             box-shadow: 0 0px;
-            border-radius: 0px;
+            border-radius: 4px;
             background-color: transparent;
             border: 0px !important;
         }
@@ -486,7 +486,7 @@
         }
         .wrapper-1ucjTd .content-3at_AU, .clickable-1JJAn8 .layout-2DM8Md {
             background-color: var(--color2);
-            border-radius: 0px;
+            border-radius: 3px;
         }
         .modeLocked-SZJhTy > .content-3at_AU > .mainContent-ENyL1r {
             cursor: not-allowed !important;
@@ -547,7 +547,7 @@
 /* Username Box */
     .container-3baos1 {
         background-color: var(--color2);
-        border-radius: 0px;
+        border-radius: 4px;
         border-left: 2px solid var(--accent-color);
         border-right: 2px solid var(--accent-color);
     }
