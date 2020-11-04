@@ -230,10 +230,10 @@
         content: "Blue and Black - Gaming Theme";
         font-size: 13px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-weight: 700;
+        font-weight: 900;
         color: var(--accent-color);
         position: relative;
-        bottom: 4px;
+        bottom: 6px;
     }
     .wordmarkWindows-1v0lYD svg {
         color: var(--accent-color);
