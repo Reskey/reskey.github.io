@@ -230,7 +230,7 @@
         content: "Blue and Black - Gaming Theme";
         font-size: 13px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-weight: 660;
+        font-weight: 600;
         color: var(--accent-color);
         position: relative;
         bottom: 3px;
@@ -248,7 +248,7 @@
     }
     .channelTextArea-rNsIhG {
         width: auto;
-        padding-right: 10px;
+        padding-right: 0px;
         background-color: rgba(0, 100, 230, 0,9);
         border-radius: 6px;
     }
@@ -302,7 +302,7 @@
         background-color: rgba(0, 100, 200, 0.2) !important;
     }
     .mentioned-xhSam7::before {
-        border-radius: 4px;
+        border-radius: 6px;
         background-color: var(--accent-color);
     }
     .localBot-GrCgVt {
@@ -378,7 +378,7 @@
             border-bottom: 2px solid var(--accent-color);
         }
         .sidebar-2K8pFh {
-            border-radius: 4px !important;
+            border-radius: 10px !important;
         }
         .unread-1xRYoj {
             background-color: rgba(139, 139, 139, 0.2);
