@@ -92,7 +92,7 @@
         background-color: var(--background-color);
     }
     .notice-2FJMB4 {
-        border-radius: 0px;
+        border-radius: 10px;
     }
     .searchBar-6Kv8R2 {
         background-color: var(--color2);
@@ -375,11 +375,9 @@
     /* Channel List */
         .scroller-2wx7Hm, #private-channels, .scroller-1JbKMe {
             background-color: var(--background-color);
-            border-top: var(--background-color);
-            border-bottom: 2px solid var(--accent-color);
         }
         .sidebar-2K8pFh {
-            border-radius: 10px !important;
+            border-radius: 8px !important;
         }
         .unread-1xRYoj {
             background-color: rgba(139, 139, 139, 0.2);
@@ -487,7 +485,7 @@
         }
         .wrapper-1ucjTd .content-3at_AU, .clickable-1JJAn8 .layout-2DM8Md {
             background-color: var(--color2);
-            border-radius: 3px;
+            border-radius: 10px;
         }
         .modeLocked-SZJhTy > .content-3at_AU > .mainContent-ENyL1r {
             cursor: not-allowed !important;
@@ -548,7 +546,7 @@
 /* Username Box */
     .container-3baos1 {
         background-color: var(--color2);
-        border-radius: 4px;
+        border-radius: 10px;
         border-left: 2px solid var(--accent-color);
         border-right: 2px solid var(--accent-color);
     }
@@ -560,7 +558,7 @@
         border-right: 2px solid var(--accent-color);
     }
     .button-1YfofB.buttonColor-7qQbGO {
-        border-radius: 0px;
+        border-radius: 5px;
         background-color: transparent;
     }
     .button-1YfofB.buttonColor-7qQbGO:hover {
@@ -668,7 +666,7 @@
     /* General */
         .side-8zPYf6 > .item-PXvHYJ {
             background-color: transparent;
-            border-radius: 0px;
+            border-radius: 10px;
         }
         .item-PXvHYJ:hover, .selected-3s45Ha, .selected-3s45Ha:hover {
             background-color: var(--color2) !important;
@@ -702,14 +700,14 @@
             right: 1px;
         }
         .sizeDefault-2YlOZr {
-            border-radius: 0px;
+            border-radius: 8px;
         }
         .divider-3573oO {
             visibility: hidden;
         }
         .checkbox-1ix_J3 {
             background-color: var(--color2);
-            border-radius: 0px;
+            border-radius: 8px;
             border: 1px solid var(--color10) !important;
         }
         .checkbox-1ix_J3.checked-3_4uQ9 > svg > path {
@@ -719,7 +717,7 @@
             background-color: var(--color10) !important;
         }
         .input-cIJ7To {
-            border-radius: 0px;
+            border-radius: 10px;
         }
         .input-cIJ7To:focus, .input-cIJ7To.focused-1mmYsC {
             border-color: var(--accent-color) !important;
