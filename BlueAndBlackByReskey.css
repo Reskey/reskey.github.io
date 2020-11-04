@@ -230,10 +230,10 @@
         content: "Blue and Black - Gaming Theme";
         font-size: 13px;
         font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-        font-weight: 730;
+        font-weight: 660;
         color: var(--accent-color);
         position: relative;
-        bottom: 2px;
+        bottom: 3px;
     }
     .wordmarkWindows-1v0lYD svg {
         color: var(--accent-color);
@@ -296,23 +296,23 @@
 
 /* Messages */
     .mentioned-xhSam7 {
-        background-color: rgba(255, 0, 0, 0.2);
+        background-color: rgba(0, 100, 250, 0.2);
     }
     .mentioned-xhSam7:hover, .selected-2P5D_Z.mentioned-xhSam7 {
-        background-color: rgba(155, 0, 0, 0.2) !important;
+        background-color: rgba(0, 100, 200, 0.2) !important;
     }
     .mentioned-xhSam7::before {
-        border-radius: 0px;
+        border-radius: 4px;
         background-color: var(--accent-color);
     }
     .localBot-GrCgVt {
-        background-color: rgba(255, 0, 0, 0.2);
+        background-color: rgba(0, 100, 250, 0.2);
     }
     .localBot-GrCgVt:hover {
-        background-color: rgba(155, 0, 0, 0.2) !important;
+        background-color: rgba(0, 100, 200, 0.2) !important;
     }
     .localBot-GrCgVt::before, .botTagCozy-1fFsZk, .botTag-3W9SuW, .blockquoteDivider-2hH8H6, .bot-2Fta1w {
-        border-radius: 2px !important;
+        border-radius: 3px !important;
         background-color: var(--accent-color);
     }
     .botText-1526X_ {
@@ -322,8 +322,8 @@
         background-color: var(--color2);
     }
     .reactionInner-15NvIl {
-        background-color: var(--color2);
-        border-radius: 0px;
+        background-color: rgba(0, 100, 200, 0.5);
+        border-radius: 2px;
     }
     .buttons-cl5qTG {
         position: absolute;
@@ -331,7 +331,7 @@
     }
     .button-1ZiXG9 {
         background-color: var(--background-color);
-        border-radius: 0px !important;
+        border-radius: 4px !important;
     }
     .button-1ZiXG9:hover {
         background-color: var(--color2);
