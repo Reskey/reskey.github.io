@@ -321,16 +321,7 @@
         color: white;
         text-shadow: 0px 0px 5px rgba(0, 0, 0, 1);    
     }
-    .timestamp-3ZCmNB,
-    .timestamp-1E3uAL {
-          color: rgb(0, 100,250);
-          font-size: 12px;
-          height: auto;
-          line-height: normal;
-          &.latin24CompactTimeStamp-2V7XIQ {
-            width: auto;
-          }
-
+    
     .emptyChannelIcon-3IXV5M {
         background-color: var(--color2);
     }
