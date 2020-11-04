@@ -229,11 +229,11 @@
     .titleBar-AC4pGV .wordmarkWindows-1v0lYD::after {
         content: "Blue and Black - Gaming Theme";
         font-size: 13px;
-        font-family: Arial;
-        font-weight: 600;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-weight: 700;
         color: var(--accent-color);
         position: relative;
-        bottom: 2px;
+        bottom: 4px;
     }
     .wordmarkWindows-1v0lYD svg {
         color: var(--accent-color);
